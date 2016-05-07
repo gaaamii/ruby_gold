@@ -2,6 +2,13 @@
 
 試験時間：14:50 ~ 16:20
 
+## 復習方法
+```
+$ grep NG toreme.md
+```
+
+して間違えたとこ確認
+
 ## My Answers
 1.  1 foo OK
 2.  3 self OK
